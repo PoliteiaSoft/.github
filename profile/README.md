@@ -11,7 +11,7 @@ Explora nuestros repositorios públicos, diseñados para ofrecer transparencia y
 | Proyecto | Descripción | Tecnologías | Enlace |
 |----------|-------------|-------------|--------|
 | **         ** | 🌍 Sitio web público con información sobre nuestros servicios y el SAD. | TypeScript, Angular |  |
-| **         ** | 🏛️ Portal para ciudadanos y empleados del Ayuntamiento de Mos. | TypeScript, Angular |  |
+| **         ** | 🏛️ Portal para ciudadanos y empleados del Ayuntamiento de. | TypeScript, Angular |  |
 
 *Nota*: Otros repositorios son privados, pero puedes conocer más sobre ellos en nuestra [web oficial](https://politeiasoft.com). 🌐
 
